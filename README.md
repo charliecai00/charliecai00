@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome to Charlie's Github👋
+
+- I'm a Computer Science Major @ NYU
+- 
 
 <!--
 **charliecai00/charliecai00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
