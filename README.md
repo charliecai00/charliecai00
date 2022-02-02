@@ -2,7 +2,7 @@
 
 - 🟪 Junior Computer Science student @ NYU 
 - 🛠 Tools: Python, C++, C, Git, bash, Linux, Node.js (and other Web App tools...) 
-- 🔍 Actively seeking Software Engineer summer internships
+- 🔍 Actively seeking Software Engineering summer internships
 - 📝 Check out my resume @ LinkedIn -> https://www.linkedin.com/in/charliecai00/
 - Interesting projects in the private repo. I can't display them due to University Policy 😢. For recruiters or anyone interested request for access.
 
