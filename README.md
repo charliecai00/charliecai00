@@ -1,7 +1,10 @@
-### Welcome to Charlie's Github👋
+### Welcome to Charlie's Github Repo👋
 
-- I'm a Computer Science Major @ NYU
-- 
+- 🟪 Junior Computer Science student @ NYU 
+- 🛠 Tools: Python, C++, C, Git, bash, Linux, Node.js (and other Web App tools...) 
+- 🔍 Actively seeking Software Engineer summer internships
+- 📝 Check out my resume @ LinkedIn -> https://www.linkedin.com/in/charliecai00/
+- Interesting projects in the private repo. I can't display them due to University Policy 😢. For recruiters or anyone interested request for access.
 
 <!--
 **charliecai00/charliecai00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
