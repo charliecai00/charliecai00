@@ -3,6 +3,7 @@
 - 🟪 Computer Science student @ NYU 
 - 🛠 Langauges & Tools: Python, C++, C, Javascript, Java, Git, Linux, Bash, Jet Brains, and VS code
 - 📝 Check out my resume @ LinkedIn -> https://www.linkedin.com/in/charliecai00/
+- 🔍 Open to full-time Software Engineer Position
 
 <!--
 **charliecai00/charliecai00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
