@@ -1,8 +1,7 @@
 ### Welcome to Charlie's Github Repo👋
 
-- 🟪 Junior Computer Science student @ NYU 
-- 🛠 Tools: Python, C++, C, MERN stack(MongoDB, Express.js, React.js, Node.js), Git & Github, Linux, Bash
-- 🔍 Actively seeking Software Engineering summer internships
+- 🟪 Computer Science student @ NYU 
+- 🛠 Langauges & Tools: Python, C++, C, Javascript, Java, Git, Linux, Bash, Jet Brains, and VS code
 - 📝 Check out my resume @ LinkedIn -> https://www.linkedin.com/in/charliecai00/
 
 <!--
