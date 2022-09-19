@@ -1,9 +1,8 @@
-### Welcome to Charlie's Github Repo👋
+### Welcome to Charlie's Github👋
 
-- 🟪 Computer Science student @ NYU 
-- 🛠 Langauges & Tools: Python, C++, C, Javascript, Java, Git, Linux, Bash, Jet Brains, and VS code
-- 📝 Check out my resume @ LinkedIn -> https://www.linkedin.com/in/charliecai00/
-- 🔍 Open to full-time Software Engineer Position
+- 💪 CS @ NYU -> SWE @ LMT
+- 🛠 My skills: Python, C++, C, Web stack (MongoDB, ReactJS, NodeJS, ExpressJS), Java, Git, Linux, Bash, Kubenetes TKG
+- 📝 Check me out on LinkedIn -> https://www.linkedin.com/in/charliecai00/
 
 <!--
 **charliecai00/charliecai00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
