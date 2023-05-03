@@ -4,7 +4,7 @@
 - 🛠 My skills: Python, C++, C, Web stack (MongoDB, ReactJS, NodeJS, ExpressJS), Java, Git, Linux, Bash, Kubenetes TKG
 - 📝 Check me out on LinkedIn -> https://www.linkedin.com/in/charliecai00/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Charlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=charliecai00)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
