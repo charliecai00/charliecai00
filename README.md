@@ -1,7 +1,7 @@
 ### Welcome to Charlie's Github👋
 
 - 💪 CS @ NYU -> SWE @ LMT
-- 🛠 My skills: Python, C++, C, Web stack (MongoDB, ReactJS, NodeJS, ExpressJS), Java, Git, Linux, Bash, Kubenetes TKG
+- 🛠 My skills: Python, C++, C, Web stack (MongoDB, ReactJS, NodeJS, ExpressJS), Java, Git, Linux, Bash, Kubenetes TKG, Github CI/CD, MapReduce, Pyspark
 - 📝 Check me out on LinkedIn -> https://www.linkedin.com/in/charliecai00/
 
 
