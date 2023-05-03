@@ -4,8 +4,6 @@
 - 🛠 My skills: Python, C++, C, Web stack (MongoDB, ReactJS, NodeJS, ExpressJS), Java, Git, Linux, Bash, Kubenetes TKG
 - 📝 Check me out on LinkedIn -> https://www.linkedin.com/in/charliecai00/
 
-[![Charlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=charliecai00)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **charliecai00/charliecai00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
